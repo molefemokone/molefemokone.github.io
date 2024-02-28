@@ -42,3 +42,12 @@ body {
   .content {
     padding: 40px;
   }
+
+  nav {
+    color: aliceblue;
+    line-height: 1.3em;
+    text-align: left;
+    width: 80%;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;}
