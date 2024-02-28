@@ -44,14 +44,5 @@ body {
   }
 
   .horizontl-list {
-    color: white;
-    line-height: 1.3em;
-    text-align: left;
-    width: 80%;
-    font-family: Helvetica;
-    font-size: 18px;
-    font-weight: bold;
-    text-align: center;
     list-style: none;
-    display: flex;
-}
+    display: flex;}
