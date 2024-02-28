@@ -43,6 +43,8 @@ body {
     padding: 40px;
   }
 
-  .horizontl-list {
+  .horizontal-list {
     list-style: none;
     display: flex;}
+
+    .horizontal-list {margin-right: 10px;/*Optional spacing betweent items*/}
