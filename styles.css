@@ -34,7 +34,7 @@ body {
     font-size: 22px;
     line-height: 24px;
     padding-bottom: 30px;
-    text-align: left;
+    text-align: center;
     width: 70%;
     font-family: Georgia;
   }
@@ -50,4 +50,5 @@ body {
     width: 80%;
     font-family: Helvetica;
     font-size: 18px;
-    font-weight: bold;}
+    font-weight: bold;
+    text-align: center;}
