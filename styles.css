@@ -43,7 +43,7 @@ body {
     padding: 40px;
   }
 
-  nav {
+  .horizontl-list {
     color: white;
     line-height: 1.3em;
     text-align: left;
@@ -51,4 +51,7 @@ body {
     font-family: Helvetica;
     font-size: 18px;
     font-weight: bold;
-    text-align: center;}
+    text-align: center;
+    list-style: none;
+    display: flex;
+}
