@@ -17,3 +17,12 @@ body {
     font-family: Georgia;
     text-align: center;
   }
+  p {
+    color: aliceblue;
+    line-height: 1.3em;
+    text-align: left;
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+  }
